@@ -11,9 +11,9 @@ This project is simple movie finder using Filmpire API to recreate a simplier ve
 
 ## Technologies
 Project is created with:
-* CSS
+* React
 * Javascript
-* JSX React
+* CSS
 
 ## Setup
 To run this project, install it locally using npm:
